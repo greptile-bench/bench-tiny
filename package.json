@@ -1,0 +1,5 @@
+{
+  "name": "bench-tiny",
+  "private": true,
+  "type": "module"
+}
